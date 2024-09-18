@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# WebStorm project files
+.idea/
+
+# TypeScript build files
+dist/
+*.tsbuildinfo
+
+# Temporary files and folders
+temp/
+*.tmp
+
+# Coverage directory
+coverage/
+
+# Optional npm cache directory
+.npm/
+
+# Environment variable files
+.env
